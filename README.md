@@ -1,4 +1,4 @@
- 
+ [Click here to view the live site] ielts-course-product-page-frontend.vercel.app
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
